@@ -11,7 +11,7 @@ export default class Home extends Component {
             lista: []
         }
         
-        // this.getUsers()
+        this.getUsers()
     }
 
     getUsers = async() => {
