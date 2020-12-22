@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Grid } from '@material-ui/core';
-import Page from '../../components/page'
+import Page from '../../components/page/page'
 import API from '../../comm/api';
 
 export default class Home extends Component {
